@@ -151,7 +151,8 @@ per redukto de novaj lernendaĵoj.
 
 HTML:
 ```
-  -                          Chapecó: Fonto, 1983.
+  Gerda_malaperis_MS.html    Teksto simila al manuskripto.
+  Gerda_malaperis_1983.html  Chapecó: Fonto, 1983.
   -                          Chapecó: Fonto, [ĉ. 1987].
   Gerda_malaperis_1992.html  Bonn: Germana Esperanto-Junularo, [1992].
   -                          Chapecó: Fonto, [sen jaro].
