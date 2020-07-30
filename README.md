@@ -168,9 +168,18 @@ d8c4b13e6dd8d0c4e9998b4ba713782a   1462929  Gerda_malaperis_1983.pdf
 54a24d602a5f85e0902af75d01fe7fce   1976868  Gerda_malaperis_2006.pdf
 ```
 
-### Lasu min paroli plu (1984; ?; 2003; 2005)
+### Lasu min paroli plu! (1984; ?; 2003; 2005)
 
-Mankas ankoraŭ.
+Kolekto da tekstoj, sen rilato unu kun la alia, kiuj estas
+kompreneblaj sen plua lernado por tiu, kiu bone lernis la vortojn kaj
+gramatikaĵojn de la paralela ĉapitro en _Gerda malaperis!_.
+
+HTML:
+```
+  Lasu_min_paroli_plu_1984.html  Chapecó: Fonto, 1984.
+  Lasu_min_paroli_plu_2005.html  Chapecó: Fonto, 2005.
+  Lasu_min_paroli_plu.html       HTML-eldono.
+```
 
 ### Ili kaptis Elzan! (1985; ?; 2000; 2007)
 
