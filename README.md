@@ -196,7 +196,14 @@ HTML:
 
 ### Vere aŭ fantazie (1989; ?; 2001; 2007)
 
-Mankas ankoraŭ.
+Rakontoj el diversaj partoj de la mondo, verkitaj por plezure
+pligrandigi vian vorto-provizon.
+
+HTML:
+```
+  Vere_aux_fantazie_1989.html  Chapecó: Fonto, 1989.
+  Vere_aux_fantazie.html       HTML-eldono.
+```
 
 ### Dankon, amiko (1990)
 
