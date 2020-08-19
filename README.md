@@ -144,7 +144,7 @@ Mankas ankoraŭ.
 
 ## Facila lingvaĵo
 
-### Gerda malaperis (1983; ...)
+### Gerda malaperis! (1983; ...)
 
 Lingvo-instrua romaneto, bazita sur la principo motivi la lernanton
 per redukto de novaj lernendaĵoj.
