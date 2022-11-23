@@ -45,7 +45,7 @@ eee537727c039032d29e1816be00be66   1495016  Malmalice_1977.pdf
 
 ### Ĉu vi kuiras ĉine? (1976; 1983; 1996)
 
-Detektivromano, la unua en la “Ĉu-serio”. Kiu murdis la junan
+Detektivromano, la unua en la «Ĉu-serio». Kiu murdis la junan
 farbiston? Ĉu entute estas murdo? Se jes, kial do iu volus ĉesigi lian
 vivon? Li ne estis riĉa, kaj ne apartenis al tiu homkategorio, kiu
 havas financan aŭ komercan signifon. Sed li havis politikan agadon. Ĉu
@@ -65,7 +65,7 @@ Skanoj:
 
 ### Ĉu li bremsis sufiĉe? (1978; 1979)
 
-En la dua krimromano en la “Ĉu-serio” la problemo frontanta al la
+En la dua krimromano en la «Ĉu-serio» la problemo frontanta al la
 detektivo Jano Karal estas jena: politike potenca arkitekto kaj ties
 edzino mortas en aŭtomobila akcidento, kiu tamen tute ne povas esti
 akcidenta. Kiu povis difekti la meĥanismon? Kiu havis motivon por tio?
@@ -104,7 +104,7 @@ df2cb2e0a8fd4fa423aa351e2ae9cef2  11083154  Cxu_li_venis_trakosme_1980.pdf
 
 ### Ĉu ni kunvenis vane? (1982)
 
-El la “Ĉu-romanoj”, jen la sola, kies agado ne okazas en “Sanktavalo”,
+El la «Ĉu-romanoj», jen la sola, kies agado ne okazas en «Sanktavalo»,
 sed en Kazaĥio, en la tiama Sovet-Unio, pli precize ĉe internacia
 konferenco en Alma-Ato, kie polica detektivo Jano Karal deĵoras kiel
 ano de la internacia sekureca servo.
@@ -127,7 +127,7 @@ Skanoj:
 
 ### Ĉu ŝi mortu tra-fike? (1982; 2000)
 
-“Priseksa kaj prikrima fantaziaĵo” en belstila kaj malpruda lingvaĵo.
+«Priseksa kaj prikrima fantaziaĵo» en belstila kaj malpruda lingvaĵo.
 
 HTML:
 ```
@@ -216,6 +216,26 @@ Mankas ankoraŭ.
 
 Mankas ankoraŭ.
 
+### La dorsosako de panjo Rut’ (1995)
+
+La libro havas dek novelojn de Sándor Bakó kaj sep novelojn de Claude
+Piron: «La dikulino»; «Ĉu en la akvo kuŝas li?»; «La forto de
+rigardo»; «Terura diro»; «La plezuro plani»; «Reviviĝo»; «Nokta
+veturado». Ŝajne ekzistas ankaŭ aliaj aŭtoraj tekstoj de la unuaj
+kvar, ĉar grave malsamaj versioj troviĝas en la reto, sen fontindiko.
+La kvara troviĝas ankaŭ en _Lasu min paroli plu!_, kun la titolo
+«Timiga diro», kaj versio en la reto havas la titolon «Terura novaĵo».
+
+HTML:
+```
+  La_dorsosako_de_panjo_Rut_1995.html  Vieno: Pro Esperanto, 1995.
+  La_dorsosako_de_panjo_Rut.html       HTML-eldono.
+```
+
+### La meteoro (2002)
+
+Mankas ankoraŭ.
+
 ## Pri Esperanto
 
 ### La bona lingvo (1989; 1997)
@@ -249,7 +269,7 @@ Skanoj:
 ### Tien (1997)
 
 Severe deprimita viro revenas resanigita post malfacile kredebla
-vojaĝo al stranga “paralela mondo”, alirebla, laŭ liaj diroj, tra
+vojaĝo al stranga «paralela mondo», alirebla, laŭ liaj diroj, tra
 preciza loko en alta montaro. La juna psikologino, kiu prizorgas lin,
 sekvas liajn spurojn kun la volo certiĝi, ĉu temas pri realo aŭ
 fantaziaĵo. Ŝi spertas ion similan. Ĉu ambaŭ estas viktimoj de
