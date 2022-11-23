@@ -208,23 +208,42 @@ HTML:
   Vere_aux_fantazie.html       HTML-eldono.
 ```
 
-### Dankon, amiko (1990)
+### Dankon, amiko! (1990)
 
-Mankas ankoraŭ.
+Facila kaj streĉa rakonto pri naiva junulo.
 
 ### La kisa malsano (1991; 2000)
 
-Mankas ankoraŭ.
+Stranga emo kisi, rekisi, kisadi aperas nekompreneble en multaj anoj
+de urba loĝantaro kaj poste epidemie disvastiĝas en la tuta lando. La
+emo estas tiel forta, ke por la homoj, kiujn trafis tiu bezono, ne
+gravas, kiun ili kisas, gravas nur la kontentigo de la nesuperebla
+deziro. Fakte, tio estas nur unu simptomo de nova malsano, kiu
+perturbas tutlande la vivon. La aŭtoritatoj ne scias, kiel reagi.
+Tamen, en unu difinita kategorio de homoj, la impulso kisadi ne
+montriĝas. Ĉu ili estas anoj de konspiro? Iom post iom oni ja ekscias,
+ke la afero estas ligita al intrigoj disvolviĝantaj sur Kariba
+insuleto, kaj al ties politika situacio ...
+
+La eldono de 2000 havas samvolume ankaŭ naŭ novelojn de Sándor Bakó.
 
 ### La dorsosako de panjo Rut’ (1995)
 
 La libro havas dek novelojn de Sándor Bakó kaj sep novelojn de Claude
-Piron: «La dikulino»; «Ĉu en la akvo kuŝas li?»; «La forto de
-rigardo»; «Terura diro»; «La plezuro plani»; «Reviviĝo»; «Nokta
-veturado». Ŝajne ekzistas ankaŭ aliaj aŭtoraj tekstoj de la unuaj
-kvar, ĉar grave malsamaj versioj troviĝas en la reto, sen fontindiko.
-La kvara troviĝas ankaŭ en _Lasu min paroli plu!_, kun la titolo
-«Timiga diro», kaj versio en la reto havas la titolon «Terura novaĵo».
+Piron:
+
+* La dikulino
+* Ĉu en la akvo kuŝas li?
+* La forto de rigardo
+* Terura diro
+* La plezuro plani
+* Reviviĝo
+* Nokta veturado
+
+Ŝajne ekzistas ankaŭ aliaj aŭtoraj tekstoj de la unuaj kvar, ĉar grave
+malsamaj versioj troviĝas en la reto, sen fontindiko. La kvara
+troviĝas ankaŭ en _Lasu min paroli plu!_, kun la titolo «Timiga diro»,
+kaj versio en la reto havas la titolon «Terura novaĵo».
 
 HTML:
 ```
@@ -234,7 +253,26 @@ HTML:
 
 ### La meteoro (2002)
 
-Mankas ankoraŭ.
+La libro havas dek sep novelojn de Claude Piron kaj dek novelojn de
+Sándor Bakó. La noveloj de Piron estas:
+
+* La Superulo
+* La banujo
+* Reviviĝo
+* La strangulo
+* Ĉu kredinda, ĉu nekredinda?
+* Timiga maljuniĝo
+* Telefona registrilo
+* Plej rapide tra Parizo
+* Vivu li! Vivu li! Vivu li!
+* Ismet
+* Ĉu Tamara edziniĝos?
+* Ĉu fakso utilos?
+* Kiu volas pli, povas pli
+* Ne moviĝu
+* Mi perdis mian nomon
+* Stranga veturilo
+* Sen pardono
 
 ## Pri Esperanto
 
