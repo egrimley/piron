@@ -193,7 +193,7 @@ HTML:
 ```
   Ili_kaptis_Elzan_1985.html  Chapecó: Fonto, 1985.
   Ili_kaptis_Elzan_2000.html  Chapecó: Fonto, 2000.
-  -                           Chapecó: Fonto, 2007.
+  Ili_kaptis_Elzan_2007.html  Chapecó: Fonto, 2007.
   Ili_kaptis_Elzan.html       HTML-eldono.
 ```
 
