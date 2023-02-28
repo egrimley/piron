@@ -45,7 +45,7 @@ eee537727c039032d29e1816be00be66   1495016  Malmalice_1977.pdf
 
 ### Ĉu vi kuiras ĉine? (1976; 1983; 1996)
 
-Detektivromano, la unua en la “Ĉu-serio”. Kiu murdis la junan
+Detektivromano, la unua en la «Ĉu-serio». Kiu murdis la junan
 farbiston? Ĉu entute estas murdo? Se jes, kial do iu volus ĉesigi lian
 vivon? Li ne estis riĉa, kaj ne apartenis al tiu homkategorio, kiu
 havas financan aŭ komercan signifon. Sed li havis politikan agadon. Ĉu
@@ -65,7 +65,7 @@ Skanoj:
 
 ### Ĉu li bremsis sufiĉe? (1978; 1979)
 
-En la dua krimromano en la “Ĉu-serio” la problemo frontanta al la
+En la dua krimromano en la «Ĉu-serio» la problemo frontanta al la
 detektivo Jano Karal estas jena: politike potenca arkitekto kaj ties
 edzino mortas en aŭtomobila akcidento, kiu tamen tute ne povas esti
 akcidenta. Kiu povis difekti la meĥanismon? Kiu havis motivon por tio?
@@ -104,7 +104,7 @@ df2cb2e0a8fd4fa423aa351e2ae9cef2  11083154  Cxu_li_venis_trakosme_1980.pdf
 
 ### Ĉu ni kunvenis vane? (1982)
 
-El la “Ĉu-romanoj”, jen la sola, kies agado ne okazas en “Sanktavalo”,
+El la «Ĉu-romanoj», jen la sola, kies agado ne okazas en «Sanktavalo»,
 sed en Kazaĥio, en la tiama Sovet-Unio, pli precize ĉe internacia
 konferenco en Alma-Ato, kie polica detektivo Jano Karal deĵoras kiel
 ano de la internacia sekureca servo.
@@ -127,7 +127,7 @@ Skanoj:
 
 ### Ĉu ŝi mortu tra-fike? (1982; 2000)
 
-“Priseksa kaj prikrima fantaziaĵo” en belstila kaj malpruda lingvaĵo.
+«Priseksa kaj prikrima fantaziaĵo» en belstila kaj malpruda lingvaĵo.
 
 HTML:
 ```
@@ -152,11 +152,14 @@ per redukto de novaj lernendaĵoj.
 HTML:
 ```
   Gerda_malaperis_MS.html    Teksto simila al manuskripto.
-  Gerda_malaperis_1983.html  Chapecó: Fonto, 1983.
-  -                          Chapecó: Fonto, [ĉ. 1987].
+  Gerda_malaperis_1983.html  Chapecó: Fonto, 1983. 48 paĝoj.
+  -                          Chapecó: Fonto, [ĉ. 1987]. 48 paĝoj.
   Gerda_malaperis_1992.html  Bonn: Germana Esperanto-Junularo, [1992].
-  -                          Chapecó: Fonto, [sen jaro].
-  Gerda_malaperis_2006.html  Chapecó: Fonto, [2006].
+  -                          Chapecó: Fonto, [sen jaro]. 56 paĝoj.
+  -                          Bonn: Germana Esperanto-Junularo, 1994.
+  -                          Impeto, 1994. ISBN 5-7161-0005-8.
+  -                          Impeto, 2004. ISBN 5-7161-0112-7.
+  Gerda_malaperis_2006.html  Chapecó: Fonto, [2006]. 62 paĝoj.
   Gerda_malaperis.html       HTML-eldono.
 ```
 
@@ -190,7 +193,7 @@ HTML:
 ```
   Ili_kaptis_Elzan_1985.html  Chapecó: Fonto, 1985.
   Ili_kaptis_Elzan_2000.html  Chapecó: Fonto, 2000.
-  -                           Chapecó: Fonto, 2007.
+  Ili_kaptis_Elzan_2007.html  Chapecó: Fonto, 2007.
   Ili_kaptis_Elzan.html       HTML-eldono.
 ```
 
@@ -205,13 +208,71 @@ HTML:
   Vere_aux_fantazie.html       HTML-eldono.
 ```
 
-### Dankon, amiko (1990)
+### Dankon, amiko! (1990)
 
-Mankas ankoraŭ.
+Facila kaj streĉa rakonto pri naiva junulo.
 
 ### La kisa malsano (1991; 2000)
 
-Mankas ankoraŭ.
+Stranga emo kisi, rekisi, kisadi aperas nekompreneble en multaj anoj
+de urba loĝantaro kaj poste epidemie disvastiĝas en la tuta lando. La
+emo estas tiel forta, ke por la homoj, kiujn trafis tiu bezono, ne
+gravas, kiun ili kisas, gravas nur la kontentigo de la nesuperebla
+deziro. Fakte, tio estas nur unu simptomo de nova malsano, kiu
+perturbas tutlande la vivon. La aŭtoritatoj ne scias, kiel reagi.
+Tamen, en unu difinita kategorio de homoj, la impulso kisadi ne
+montriĝas. Ĉu ili estas anoj de konspiro? Iom post iom oni ja ekscias,
+ke la afero estas ligita al intrigoj disvolviĝantaj sur Kariba
+insuleto, kaj al ties politika situacio ...
+
+La eldono de 2000 havas samvolume ankaŭ naŭ novelojn de Sándor Bakó.
+
+### La dorsosako de panjo Rut’ (1995)
+
+La libro havas dek novelojn de Sándor Bakó kaj sep novelojn de Claude
+Piron:
+
+* La dikulino
+* Ĉu en la akvo kuŝas li?
+* La forto de rigardo
+* Terura diro
+* La plezuro plani
+* Reviviĝo
+* Nokta veturado
+
+Ŝajne ekzistas ankaŭ aliaj aŭtoraj tekstoj de la unuaj kvar, ĉar grave
+malsamaj versioj troviĝas en la reto, sen fontindiko. La kvara
+troviĝas ankaŭ en _Lasu min paroli plu!_, kun la titolo «Timiga diro»,
+kaj versio en la reto havas la titolon «Terura novaĵo».
+
+HTML:
+```
+  La_dorsosako_de_panjo_Rut_1995.html  Vieno: Pro Esperanto, 1995.
+  La_dorsosako_de_panjo_Rut.html       HTML-eldono.
+```
+
+### La meteoro (2002)
+
+La libro havas dek sep novelojn de Claude Piron kaj dek novelojn de
+Sándor Bakó. La noveloj de Piron estas:
+
+* La Superulo
+* La banujo
+* Reviviĝo
+* La strangulo
+* Ĉu kredinda, ĉu nekredinda?
+* Timiga maljuniĝo
+* Telefona registrilo
+* Plej rapide tra Parizo
+* Vivu li! Vivu li! Vivu li!
+* Ismet
+* Ĉu Tamara edziniĝos?
+* Ĉu fakso utilos?
+* Kiu volas pli, povas pli
+* Ne moviĝu
+* Mi perdis mian nomon
+* Stranga veturilo
+* Sen pardono
 
 ## Pri Esperanto
 
@@ -246,7 +307,7 @@ Skanoj:
 ### Tien (1997)
 
 Severe deprimita viro revenas resanigita post malfacile kredebla
-vojaĝo al stranga “paralela mondo”, alirebla, laŭ liaj diroj, tra
+vojaĝo al stranga «paralela mondo», alirebla, laŭ liaj diroj, tra
 preciza loko en alta montaro. La juna psikologino, kiu prizorgas lin,
 sekvas liajn spurojn kun la volo certiĝi, ĉu temas pri realo aŭ
 fantaziaĵo. Ŝi spertas ion similan. Ĉu ambaŭ estas viktimoj de
