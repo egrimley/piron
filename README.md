@@ -154,8 +154,8 @@ HTML:
   Gerda_malaperis_MS.html    Teksto simila al manuskripto.
   Gerda_malaperis_1983.html  Chapecó: Fonto, 1983. 48 paĝoj.
   -                          Chapecó: Fonto, [ĉ. 1987]. 48 paĝoj.
-  Gerda_malaperis_1992.html  Bonn: Germana Esperanto-Junularo, [1992].
-  -                          Chapecó: Fonto, [sen jaro]. 56 paĝoj.
+  Gerda_malaperis_1992.html  Bonn: Germana Esperanto-Junularo, [1992]. 48 paĝoj.
+  Gerda_malaperis_v30.html   Chapecó: Fonto, [sen jaro]. 56 paĝoj.
   -                          Bonn: Germana Esperanto-Junularo, 1994.
   -                          Impeto, 1994. ISBN 5-7161-0005-8.
   -                          Impeto, 2004. ISBN 5-7161-0112-7.
