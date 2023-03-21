@@ -1,0 +1,67 @@
+#!/usr/bin/perl
+
+# Por kompari la diversajn versiojn de "Gerda malaperis!":
+# ./gerda-platigilo ; vimdiff gt-*.tmp # eskapu per ":qa"
+
+use strict;
+use utf8;
+
+my @eldono = ("_MS", "_1983", "_1992", "_v30", "_2006", "");
+
+foreach my $i (0..$#eldono) {
+    my $e = $eldono[$i];
+    &platigi_dosieron("Gerda_malaperis$e.html", "gt-$i$e.tmp");
+}
+
+sub platigi_dosieron {
+    my ($en, $el) = @_;
+    open(my $den, '<:utf8', $en) || die;
+    my $x = &platigi(join("", <$den>));
+    close($den);
+    open(my $del, '>:utf8', $el) || die;
+    print $del $x;
+    close($del);
+}
+
+sub platigi {
+    my ($x) = @_;
+
+    $x =~ s/<!--[^<>]*-->//g;
+    $x =~ s/[ \n]+/ /g;
+
+    # Trovi la komencon de la ĉefa teksto:
+    $x =~ s/.*(<h2>[^<>0-9]*1[^0-9])/$1/s;
+
+    # Trovi la finon de la ĉefa teksto:
+    $x =~ s/(relegu[^<>]*).*/$1/s;
+
+    $x =~ s! *(<h2>[^<>]*</h2> *)+!<p>ĈAPITRO</p>!g;
+
+    $x =~ s/—/–/g;
+
+    $x =~ s!<dt>([^<>]*)</dt> *<dd>(<p>)?!<p>$1: !g;
+    $x =~ s!</dd>|</?dl>!!g;
+
+    $x =~ s!<p class="steletoj">\* \* \*</p>!<p>***</p>!g;
+
+    # Citiloj kaj apostrofoj:
+    $x =~ s/'/’/g;
+    $x =~ tr/“”/«»/;
+    $x =~ s/,»|»,/»/g; # por kaŝi kelkajn seninteresajn diferencojn
+
+    # Forigi spacetojn antaŭ tripunkto:
+    $x =~ s! *(\.\.\.)!$1!g;
+
+    # Forigi la dividstrekojn, ĉar ili estas tro multaj:
+    $x =~ s!-!!g;
+
+    $x =~ s!</?p>!\n!g;
+    $x =~ s/ *\n */\n/g;
+    $x =~ s/\n+/\n\n/g;
+
+    $x =~ s/ /\n/g;
+    $x =~ s/^$\n*|\n*$//g;
+    $x =~ s/$/\n/;
+
+    return $x;
+}
